@@ -1,3 +1,4 @@
+// Make sure this is never pushed to github
 var devConfig = {
   apiKey: "AIzaSyA_HaUVpPcUumyV8xarOjXEF8Yw3fTCWCg",
   authDomain: "deepening-gloom.firebaseapp.com",
