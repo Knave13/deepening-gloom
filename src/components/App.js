@@ -15,9 +15,13 @@ import AccountPage from './auth/Account';
 import * as routes from '../constants/routes';
 import withAuthentication from './auth/withAuthentication';
 
+const divStyle = {
+  paddingLeft: '50px'
+}
+
 const App = () =>
   <Router>
-    <div>
+    <div style={divStyle}>
       <Navigation />
 
       <hr/>
